@@ -1,0 +1,94 @@
+---
+booktitle: Proceedings of The First AAAI Bridge Program on Continual Causality
+shortname: CC
+volume: '208'
+year: '2023'
+start: 2023-02-07
+end: 2023-02-08
+published: 2023-06-04
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: CC-2023
+month: 0
+cycles: false
+bibtex_editor: Mundt, Martin and Cooper, Keiland W. and Dhami, Devendra Singh and
+  Ribeiro, Ad\'ele and Smith, James Seale and Bellot, Alexis and Hayes, Tyler
+editor:
+- given: Martin
+  family: Mundt
+- given: Keiland W.
+  family: Cooper
+- given: Devendra Singh
+  family: Dhami
+- given: Adéle
+  family: Ribeiro
+- given: James Seale
+  family: Smith
+- given: Alexis
+  family: Bellot
+- given: Tyler
+  family: Hayes
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The First AAAI Bridge Program on Continual Causality
+    Held in Washington, DC, USA on 07-08 February 2023
+
+  Published as Volume 208 by the Proceedings of Machine Learning Research on 04 June 2023.
+
+  Volume Edited by:
+    Martin Mundt
+    Keiland W. Cooper
+    Devendra Singh Dhami
+    Adéle Ribeiro
+    James Seale Smith
+    Alexis Bellot
+    Tyler Hayes
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 07--08 Feb
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v208"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v208
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v208
+email: ''
+conference:
+  name: AAAI Bridge Program on Continual Causality
+  url: https://www.continualcausality.org/
+  location: Washington, DC, USA
+  dates:
+  - 2023-02-07
+  - 2023-02-08
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v208/cc23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v208/cc23.bib
